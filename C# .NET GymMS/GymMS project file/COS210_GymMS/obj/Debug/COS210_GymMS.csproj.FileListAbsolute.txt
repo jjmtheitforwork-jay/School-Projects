@@ -1,0 +1,27 @@
+C:\C#\COS210_GymMS\COS210_GymMS\bin\Debug\COS210_GymMS.exe.config
+C:\C#\COS210_GymMS\COS210_GymMS\bin\Debug\COS210_GymMS.exe
+C:\C#\COS210_GymMS\COS210_GymMS\bin\Debug\COS210_GymMS.pdb
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.csproj.AssemblyReference.cache
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.Form1.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.Form2.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.Properties.Resources.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.csproj.GenerateResource.cache
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.csproj.CoreCompileInputs.cache
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.exe
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.pdb
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.exe.config
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.Form4.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.Form5.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.Form6.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.Form7.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.Form8.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.AdminLogin.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.AdminMenu.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.trainingCourseMS.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.TrainersMS.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.MemberForm.resources
+C:\C#\COS210_GymMS\COS210_GymMS\obj\Debug\COS210_GymMS.EnrollmentMS.resources
+D:\.NET C# Gym membership system\C# .NET GymMS\GymMS project file\COS210_GymMS\obj\Debug\COS210_GymMS.csproj.AssemblyReference.cache
+D:\.NET C# Gym membership system\C# .NET GymMS\GymMS project file\COS210_GymMS\obj\Debug\COS210_GymMS.exe.config
+D:\.NET C# Gym membership system\C# .NET GymMS\GymMS project file\COS210_GymMS\obj\Debug\COS210_GymMS.exe
+D:\.NET C# Gym membership system\C# .NET GymMS\GymMS project file\COS210_GymMS\obj\Debug\COS210_GymMS.pdb
